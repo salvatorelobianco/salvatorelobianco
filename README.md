@@ -16,7 +16,7 @@
 
 * 🌐 **[Portfolio Personale](https://salvatorelobianco.com):** Il mio sito web sviluppato in Angular.
 * 🎮 **SpacingOut:** Cozy game 2D focalizzato sul relax, sviluppato con SwiftUI / SpriteKit.
-* 🏛️ **Palermo Segnala:** App civica per la gestione e l'upvote dei disservizi urbani.
+* 🏛️ **FixPa:** App civica per la segnalazione tramite upvote dei disservizi urbani.
 
 ---
 
